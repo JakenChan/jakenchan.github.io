@@ -1,8 +1,8 @@
 # Jaken Chan – Apps
 
-## Playing against Notes (Piano Learning)
+## Playing Against Notes: Piano
 
-A music-reading trainer for iPhone, iPad and Windows: read the note on the grand staff and press the key. Choose the keys you practise, test your speed with Test Skill (20 notes, 2 seconds each) and zoom from 3 keys to the full 88-key piano.
+A music-reading trainer for iPhone, iPad and Windows (formerly "Playing against Notes"): read the note on the grand staff and press the key. Choose the keys you practise, read sharps and flats, set a daily goal, test your speed with Test Skill and zoom from 3 keys to the full 88-key piano.
 
 - [Download on the App Store](https://apps.apple.com/app/id6820074016) (iPhone and iPad)
 - [Get it from the Microsoft Store](https://apps.microsoft.com/detail/9MT5MQF1818Q) (Windows)
