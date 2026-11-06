@@ -4,6 +4,8 @@
 
 A music-reading trainer for iPhone, iPad and Windows (formerly "Playing against Notes"): read the note on the grand staff and press the key. Choose the keys you practise, read sharps and flats, set a daily goal, test your speed with Test Skill and zoom from 3 keys to the full 88-key piano.
 
+New in version 2.3 on iPhone, iPad and Windows: practise the notes you miss most, share a picture of your test results, use the app in Japanese or Korean with C D E, ドレミ or 도레미 note names, and get a note-reading tip while the app opens. On iPhone and iPad, practice now works offline too.
+
 - [Download on the App Store](https://apps.apple.com/app/id6820074016) (iPhone and iPad)
 - [Get it from the Microsoft Store](https://apps.microsoft.com/detail/9MT5MQF1818Q) (Windows)
 - [Privacy policy](https://jakenchan.github.io/piano-learning-privacy/)
